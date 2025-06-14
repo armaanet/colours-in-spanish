@@ -1,0 +1,14 @@
+img{
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+html{
+    background-color: beige;
+}
+h1{
+    color: brown;
+    font-style: italic;
+    text-align: center;
+}
